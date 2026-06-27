@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#171717"/>
+  <rect x="72" y="80" width="816" height="380" rx="26" fill="#ffffff" opacity=".08"/>
+  <path d="M150 395V160h58l86 155V160h54v235h-58l-86-154v154h-54Z" fill="#e50914"/>
+  <path d="M456 388c0-104 82-188 184-188 60 0 112 29 146 74" fill="none" stroke="#f7b955" stroke-width="28" stroke-linecap="round"/>
+  <path d="M512 390h260" stroke="#ffffff" stroke-width="18" stroke-linecap="round" opacity=".7"/>
+  <text x="150" y="465" font-family="Inter, Arial" font-size="30" font-weight="800" fill="#ffffff">Netflix Content EDA</text>
+</svg>

@@ -1,0 +1,36 @@
+{
+  "name": "python-data-science-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.18.0",
+    "npm": ">=10.0.0"
+  },
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "dev:host": "next dev -H 0.0.0.0 -p 3000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "framer-motion": "11.18.2",
+    "next": "15.5.19",
+    "next-themes": "0.4.6",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "react-icons": "5.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.0",
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "autoprefixer": "10.5.0",
+    "eslint": "9.39.4",
+    "eslint-config-next": "15.5.19",
+    "postcss": "8.5.15",
+    "tailwindcss": "3.4.19",
+    "typescript": "5.9.3"
+  }
+}

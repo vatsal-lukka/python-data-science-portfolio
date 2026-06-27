@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  scroll-behavior: smooth;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  background:
+    radial-gradient(circle at top left, rgba(247, 185, 85, 0.22), transparent 34rem),
+    linear-gradient(135deg, #f8fbfa 0%, #eef7f4 48%, #fff5ef 100%);
+  color: #17202a;
+}
+
+.dark body {
+  background:
+    radial-gradient(circle at top right, rgba(20, 184, 166, 0.16), transparent 36rem),
+    linear-gradient(135deg, #0b1117 0%, #111827 48%, #1a1714 100%);
+  color: #f8fbfa;
+}
+
+::selection {
+  background: rgba(249, 115, 91, 0.35);
+}
+
+.section-shell {
+  @apply mx-auto w-full max-w-7xl px-4 py-20 sm:px-6 lg:px-8;
+}
+
+.glass-card {
+  @apply border border-white/60 bg-white/[0.72] shadow-xl shadow-slate-900/5 backdrop-blur-xl dark:border-white/10 dark:bg-white/[0.06] dark:shadow-black/20;
+}
+
+.gradient-text {
+  @apply bg-gradient-to-r from-ocean via-coral to-gold bg-clip-text text-transparent;
+}
+
+.focus-ring {
+  @apply focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-ocean;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}

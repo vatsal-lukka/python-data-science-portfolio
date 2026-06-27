@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#eef7f4"/>
+  <rect x="112" y="104" width="736" height="318" rx="34" fill="#ffffff"/>
+  <path d="M212 208h298M212 270h420M212 332h250" stroke="#17202a" stroke-width="24" stroke-linecap="round" opacity=".7"/>
+  <circle cx="700" cy="240" r="68" fill="#f7b955"/>
+  <path d="M666 254c26 32 58 32 84 0" fill="none" stroke="#17202a" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="676" cy="224" r="8" fill="#17202a"/>
+  <circle cx="736" cy="224" r="8" fill="#17202a"/>
+  <path d="M630 382 704 422 680 382" fill="#ffffff"/>
+  <text x="112" y="486" font-family="Inter, Arial" font-size="30" font-weight="900" fill="#17202a">Sentiment Analysis</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#0f766e"/>
+  <rect x="76" y="76" width="808" height="388" rx="28" fill="#ffffff" opacity=".16"/>
+  <path d="M190 352c76-128 142-128 218 0" fill="none" stroke="#f7b955" stroke-width="34" stroke-linecap="round"/>
+  <path d="M508 152h216v216H508z" fill="#fff" opacity=".88"/>
+  <path d="M544 322V218M606 322V184M668 322v-72" stroke="#f9735b" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="320" cy="225" r="54" fill="#ffffff" opacity=".9"/>
+  <text x="148" y="448" font-family="Inter, Arial" font-size="30" font-weight="800" fill="#ffffff">IPL Dashboard</text>
+</svg>
