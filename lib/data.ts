@@ -9,7 +9,7 @@ import {
 } from "react-icons/fa";
 import { HiSparkles } from "react-icons/hi2";
 import type { NavItem, Project, SkillCategory } from "@/types";
-
+ 
 export const profile = {
   name: "Vatsal Lukka",
   title: "Python Developer | Aspiring Data Scientist",
