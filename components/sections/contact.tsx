@@ -31,13 +31,7 @@ export function Contact() {
               <FiMail aria-hidden />
               {profile.email}
             </a>
-            <a
-              href={profile.phoneHref}
-              className="focus-ring flex items-center gap-3 rounded-md p-3 hover:bg-white/55 dark:hover:bg-white/5"
-            >
-              <FiPhone aria-hidden />
-              {profile.phone}
-            </a>
+            
             <a
               href={profile.github}
               target="_blank"
