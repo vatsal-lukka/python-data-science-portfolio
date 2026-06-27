@@ -33,7 +33,7 @@ export function Footer() {
             [FaGithub, profile.github, "GitHub"],
             [FaLinkedin, profile.linkedin, "LinkedIn"],
             [FiMail, `mailto:${profile.email}`, "Email"],
-            [FiPhone, profile.phoneHref, "Phone"]
+            
           ].map(([Icon, href, label]) => {
             const SocialIcon = Icon as typeof FaGithub;
             return (
