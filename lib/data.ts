@@ -16,8 +16,7 @@ export const profile = {
   tagline: "Transforming Data into Insights and Ideas into Intelligent Solutions",
   location: "India",
   email: "vatsallukka55@gmail.com",
-  phone: "+91 98255 65894",
-  phoneHref: "tel:+919825565894",
+  
   github: "https://github.com/vatsallukka",
   linkedin: "https://linkedin.com/in/vatsallukka",
   bio: "I am a Python Developer and Data Science Enthusiast passionate about solving real-world problems using data, machine learning, and analytics. I enjoy building data-driven applications, extracting insights from complex datasets, and continuously learning modern technologies.",
