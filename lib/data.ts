@@ -66,8 +66,8 @@ export const projects: Project[] = [
     image: "/projects/netflix.svg",
     tech: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
     features: ["Data Cleaning", "Trend Analysis", "Visual Reports"],
-    githubUrl: "https://github.com/vatsallukka/netflix-data-analysis",
-    demoUrl: "https://github.com/vatsallukka/netflix-data-analysis"
+    githubUrl: "https://github.com/vatsal-lukka/Netflix-Data-Analysis",
+    demoUrl: "https://netflix-data-analysis-dusky.vercel.app/"
   },
   {
     title: "IPL Data Analysis Dashboard",
