@@ -86,8 +86,8 @@ export const projects: Project[] = [
     image: "/projects/house-price.svg",
     tech: ["Python", "Scikit-Learn", "Pandas"],
     features: ["Feature Engineering", "Model Training", "Prediction System"],
-    githubUrl: "https://github.com/vatsallukka/house-price-prediction",
-    demoUrl: "https://github.com/vatsallukka/house-price-prediction"
+    githubUrl: "https://github.com/vatsal-lukka/house-price-prediction",
+    demoUrl: "https://house-price-prediction-weld.vercel.app/"
   },
   {
     title: "Customer Churn Prediction",
