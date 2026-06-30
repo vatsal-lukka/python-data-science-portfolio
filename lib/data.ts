@@ -96,8 +96,8 @@ export const projects: Project[] = [
     image: "/projects/churn.svg",
     tech: ["Python", "Machine Learning", "Scikit-Learn"],
     features: ["Data Preprocessing", "Classification", "Model Evaluation"],
-    githubUrl: "https://github.com/vatsallukka/customer-churn",
-    demoUrl: "https://github.com/vatsallukka/customer-churn"
+    githubUrl: "https://github.com/vatsal-lukka/customer-churn-prediction",
+    demoUrl: "https://customer-churn-prediction-sable.vercel.app/"
   },
   {
     title: "Sentiment Analysis",
