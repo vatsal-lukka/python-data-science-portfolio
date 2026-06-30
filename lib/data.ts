@@ -17,7 +17,7 @@ export const profile = {
   location: "India",
   email: "vatsallukka55@gmail.com",
   
-  github: "https://github.com/vatsallukka",
+  github: "https://github.com/vatsal-lukka",
   linkedin: "https://linkedin.com/in/vatsallukka",
   bio: "I am a Python Developer and Data Science Enthusiast passionate about solving real-world problems using data, machine learning, and analytics. I enjoy building data-driven applications, extracting insights from complex datasets, and continuously learning modern technologies.",
   typingRoles: [
@@ -76,8 +76,8 @@ export const projects: Project[] = [
     image: "/projects/ipl.svg",
     tech: ["Python", "Pandas", "Plotly"],
     features: ["Interactive Dashboard", "Team Analysis", "Performance Metrics"],
-    githubUrl: "https://github.com/vatsallukka/ipl-dashboard",
-    demoUrl: "https://github.com/vatsallukka/ipl-dashboard"
+    githubUrl: "https://github.com/vatsal-lukka/Ipl-data-analysis",
+    demoUrl: "https://ipl-data-analysis-iud7.vercel.app/"
   },
   {
     title: "House Price Prediction",
