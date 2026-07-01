@@ -18,7 +18,7 @@ export const profile = {
   email: "vatsallukka55@gmail.com",
   
   github: "https://github.com/vatsal-lukka",
-  linkedin: "https://linkedin.com/in/vatsallukka",
+  linkedin: "https://www.linkedin.com/in/vatsal-lukka-b08386286?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   bio: "I am a Python Developer and Data Science Enthusiast passionate about solving real-world problems using data, machine learning, and analytics. I enjoy building data-driven applications, extracting insights from complex datasets, and continuously learning modern technologies.",
   typingRoles: [
     "Python Developer",
