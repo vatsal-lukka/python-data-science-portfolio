@@ -8,7 +8,7 @@ export function Education() {
       <SectionHeading
         eyebrow="Education"
         title="Academic foundation"
-        description="A computer engineering background paired with applied analytics and machine learning practice."
+        description="A Information Technology(It) engineering background paired with applied analytics and machine learning practice."
       />
       <Reveal>
         <div className="glass-card rounded-lg p-6 sm:p-8">
@@ -18,7 +18,7 @@ export function Education() {
                 <FiBookOpen aria-hidden />
               </div>
               <h3 className="mt-5 text-2xl font-bold">Bachelor of Technology</h3>
-              <p className="mt-2 text-lg font-semibold text-coral">Computer Engineering</p>
+              <p className="mt-2 text-lg font-semibold text-coral">Information Technology(IT) Engineering</p>
             </div>
             <div className="relative border-l border-ocean/25 pl-6 dark:border-white/15">
               {[
